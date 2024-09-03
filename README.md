@@ -4,7 +4,7 @@ I recommend rebinding spacebar to interact
 
 Mac stuff:
 
-location of gzdoom.ini (check here for path to put auto exec ie )
+location of gzdoom.ini
 ```
 ~/Library/Preferences
 ```
